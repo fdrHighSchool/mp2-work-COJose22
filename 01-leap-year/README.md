@@ -45,4 +45,4 @@
   }
   ```
 
-  * Line 43: if (name.equals("blue")) {
+  * if (name.equals("blue")) {
